@@ -1,0 +1,1 @@
+I(Data$Delta_Log_Average_Salary*Data$Delta_Unemployment_Rate)
