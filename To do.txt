@@ -1,0 +1,9 @@
+To do:
+
+predict()
+
+summary(Delta_Squared_Weights)
+
+Marginal effects do policzenia
+
+Jaki spadek zmiany poparacia powoduje zmiana bezrobocia z 0 na -1 a jaki jest efekt poprawy z 2 na 3%

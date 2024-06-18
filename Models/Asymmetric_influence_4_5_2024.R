@@ -13,3 +13,8 @@ Data$delta_unemployment_if_negxPiS <- ifelse(Data$Delta_Unemployment_Rate <0, Da
 SalaryxUnemployment <- I(Data$Delta_Log_Average_Salary * Data$Delta_Unemployment_Rate)
 
 hist(Data$delta_unemployment_if_negxPiS)
+
+
+export_summs(Main_Asymmetric_influence)
+
+plot_summs(Main_Asymmetric_influence)
